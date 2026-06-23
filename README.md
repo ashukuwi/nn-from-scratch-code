@@ -16,6 +16,8 @@ Each folder maps to one article in the series. Every day has two ways to run it:
 | 04 | Forward Propagation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-04/day_04_forward_propagation.ipynb) |
 | 05 | Vectors and Matrices | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-05/day_05_vectors_and_matrices.ipynb) |
 | 06 | A Tiny Network by Hand | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-06/day_06_tiny_network.ipynb) |
+| 07 | What Does "Learning" Even Mean? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-07/day_07_what_is_learning.ipynb) |
+| 08 | Loss Functions (MSE) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-08/day_08_loss_functions.ipynb) |
 
 More days are added as the series is published.
 

@@ -18,6 +18,8 @@ Each folder maps to one article in the series. Every day has two ways to run it:
 | 06 | A Tiny Network by Hand | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-06/day_06_tiny_network.ipynb) |
 | 07 | What Does "Learning" Even Mean? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-07/day_07_what_is_learning.ipynb) |
 | 08 | Loss Functions (MSE) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-08/day_08_loss_functions.ipynb) |
+| 09 | Cross-Entropy and Classification Loss | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-09/day_09_cross_entropy.ipynb) |
+| 10 | Gradient Descent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-10/day_10_gradient_descent.ipynb) |
 
 More days are added as the series is published.
 

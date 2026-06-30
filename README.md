@@ -20,6 +20,12 @@ Each folder maps to one article in the series. Every day has two ways to run it:
 | 08 | Loss Functions (MSE) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-08/day_08_loss_functions.ipynb) |
 | 09 | Cross-Entropy and Classification Loss | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-09/day_09_cross_entropy.ipynb) |
 | 10 | Gradient Descent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-10/day_10_gradient_descent.ipynb) |
+| 11 | The Learning Rate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-11/day_11_learning_rate.ipynb) |
+| 13 | Backpropagation: The Chain Rule | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-13/day_13_chain_rule.ipynb) |
+| 14 | Epochs, Batches, and Iterations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-14/day_14_epochs_batches.ipynb) |
+| 15 | One Full Training Loop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-15/day_15_training_loop.ipynb) |
+
+*(Day 12 — Backpropagation, Part 1 — is intuition-only with no code example, so it has no entry here.)*
 
 More days are added as the series is published.
 

@@ -24,8 +24,16 @@ Each folder maps to one article in the series. Every day has two ways to run it:
 | 13 | Backpropagation: The Chain Rule | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-13/day_13_chain_rule.ipynb) |
 | 14 | Epochs, Batches, and Iterations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-14/day_14_epochs_batches.ipynb) |
 | 15 | One Full Training Loop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-15/day_15_training_loop.ipynb) |
+| 16 | Train / Validation / Test Split — builds the *cumulative network* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-16/neural_network.ipynb) |
+| 17 | Overfitting & Underfitting — [snippet](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-17/day_17_diagnose_fit.ipynb) · [cumulative net](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-17/neural_network.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-17/neural_network.ipynb) |
+| 18 | Regularization (L2) — [snippet](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-18/day_18_regularization.ipynb) · [cumulative net](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-18/neural_network.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-18/neural_network.ipynb) |
+| 30 | The Complete Network — capstone on the Wine dataset ([run instructions](https://github.com/ashukuwi/nn-from-scratch-code/blob/main/day-30/README.md)) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashukuwi/nn-from-scratch-code/blob/main/day-30/day_30_full_network.ipynb) |
 
-*(Day 12 — Backpropagation, Part 1 — is intuition-only with no code example, so it has no entry here.)*
+## The cumulative program
+
+Starting with Day 16, each day's folder also contains **`neural_network.py`** — one continually growing program that carries everything the series has built so far and adds that day's new capability, so it grows in both length and rigor over time. Day 15's full training loop is its starting point; Day 16 adds splitting the data into train/validation/test sets before training, so the network is measured on data it never learned from. Each day, this file will pick up the next component (regularization, dropout, and so on).
+
+*(Day 12 and Day 16 have no standalone code snippet in their articles. Day 12 is intuition-only; Day 16's contribution lives in the cumulative program above.)*
 
 More days are added as the series is published.
 
